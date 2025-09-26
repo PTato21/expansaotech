@@ -37,7 +37,7 @@ O projeto será construído utilizando tecnologias web fundamentais, garantindo 
 
 O projeto está disponível para visualização através do GitHub Pages.
 
-**[Clique aqui para acessar o Expansão Tech](https://EdMasterByMaster.github.io/expansaotech/)**
+<strong><a href="https://EdMasterByMaster.github.io/expansaotech/" target="_blank" rel="noopener noreferrer">Clique aqui para acessar o Expansão Tech</a></strong>
 
 ---
 
