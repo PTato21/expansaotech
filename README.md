@@ -83,6 +83,7 @@ Após a entrega da landing page, o projeto tem como visão evoluir para uma apli
 | Isaque Barbosa |
 | Kauã Silva |
 | Natália Ferreira Zaniboni |
+|  Marlene Rosendal |
 | Pablo Rocha de Souza |
 
 ---
