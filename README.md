@@ -76,10 +76,11 @@ Após a entrega da landing page, o projeto tem como visão evoluir para uma apli
 
 | Componente |
 | :--- |
-| Analice Nogueira |
 | Bianca Baptista Caetano |
-| Ednilson Nascimento Martiliano |
+| Márcio Roberto |
+| Ednilson Nascimento Martiniano |
 | Giovanna Karolina Neres da Costa |
+| Isaque Barbosa |
 | Kauã Silva |
 | Natália Ferreira Zaniboni |
 | Pablo Rocha de Souza |
